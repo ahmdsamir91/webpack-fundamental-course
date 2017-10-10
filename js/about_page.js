@@ -1,4 +1,4 @@
-require("./login");
+require("./contact_page");
 
 document.write("Welcome to Webpack ");
 
